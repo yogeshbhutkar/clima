@@ -34,6 +34,6 @@ Install it in your device and enjoy!!!
 
 The below images are taken directly from the app.
 
-![Clima1](clima1.jpeg = 250x700)
+![Clima1](clima1.jpeg)
 ![Clima2](clima2.jpeg)
 ![Clima3](clima3.jpeg)
