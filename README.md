@@ -1,16 +1,39 @@
-# clima
 
-A new Flutter project.
+# Clima
 
-## Getting Started
+Meet Clima, an app that notifies you about the current weather at your location.
+It also gives you the weather information corresponding to any custom city when given as input.
 
-This project is a starting point for a Flutter application.
+Clima uses OpenWeather API as its backend which enables it to load dynamic data in no time.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Install Clima
+
+```bash
+  Clone this repository.
+```
+    
+```bash
+  Keeping in mind you have flutter installed, now start the build process.
+```
+
+After the termination of build process, make the flutter app using the following code:
+
+```bash
+  flutter build apk --split-per-abi
+```
+
+You will find the app being present in the output folder inside the android directory.
+
+Install it in your device and enjoy!!!
+
+
+## Demo
+
+The below images are taken directly from the app.
+
+![Clima1](clima1.jpeg)
+![Clima2](clima2.jpeg)
+![Clima3](clima3.jpeg)
